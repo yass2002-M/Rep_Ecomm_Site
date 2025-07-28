@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "bootcamp"]
+	url = https://github.com/yass2002-M/E_commerce_project.git
+	fetch = +refs/heads/*:refs/remotes/bootcamp/*
