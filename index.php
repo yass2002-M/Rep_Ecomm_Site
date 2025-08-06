@@ -124,7 +124,6 @@ session_start();
 
             </div> <!-- row-end -->
         </div>
-
         <!-- sidebar -->
         <div class="col-md-2 bg-secondary p-0">
             <!-- brands to be displayed -->
